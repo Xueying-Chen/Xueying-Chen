@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chloe 👋
 
-<!--
-**Xueying-Chen/Xueying-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Analytics & AI at ESMT Berlin, with a background in international business.
 
-Here are some ideas to get you started:
+Currently building my skills in data analytics, visualization, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+Python · R · SQL · Tableau · Pandas · ggplot2 · Git
+
+## 📊 Interests
+
+Business Analytics · Data Analytics · Data Visualization · AI
+
+## 📫 Connect with me
+
+[LinkedIn](http://www.linkedin.com/in/xueying-chloe-chen)
